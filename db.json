@@ -3,7 +3,68 @@
     { 
       "id": 1,
       "firstName": "Jane",
-      "lastName": "Doe"
+      "lastName": "Doe",
+      "enrolledPrograms": [1, 2]
+    },
+    { 
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe",
+      "enrolledPrograms": [1, 2, 7]
+    },
+    { 
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Smith",
+      "enrolledPrograms": [2, 7]
+    },
+    { 
+      "id": 4,
+      "firstName": "Kanye",
+      "lastName": "Arnold",
+      "enrolledPrograms": [3, 4]
+    },
+    { 
+      "id": 5,
+      "firstName": "Ayda",
+      "lastName": "Mathews",
+      "enrolledPrograms": [1, 4, 5]
+    },
+    { 
+      "id": 6,
+      "firstName": "Aarav",
+      "lastName": "Coombes",
+      "enrolledPrograms": [1, 4, 5]
+    }
+  ],
+  "programs": [
+    {
+      "id": 1,
+      "name": "Medicaid"
+    },
+    {
+      "id": 2,
+      "name": "Medicare Savings Program"
+    },
+    {
+      "id": 3,
+      "name": "Extra Help"
+    },
+    {
+      "id": 4,
+      "name": "Lifeline"
+    },
+    {
+      "id": 5,
+      "name": "SNAP"
+    },
+    {
+      "id": 6,
+      "name": "LIHEAP"
+    },
+    {
+      "id": 7,
+      "name": "SPAP"
     }
   ]
 }
