@@ -18,6 +18,7 @@
       "id": 3,
       "firstName": "John",
       "lastName": "Smith",
+      "birthdate": "11/21/1966",
       "enrolledPrograms": [2, 7]
     },
     { 
