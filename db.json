@@ -4,7 +4,7 @@
       "id": 1,
       "firstName": "Jane",
       "lastName": "Doe",
-      "birthdate": "08/02/1979",
+      "birthdate": "08/02/1929",
       "enrolledPrograms": [1, 2]
     },
     { 
@@ -18,15 +18,15 @@
       "id": 3,
       "firstName": "John",
       "lastName": "Smith",
-      "birthdate": "11/21/1966",
+      "birthdate": "11/21/1956",
       "enrolledPrograms": [2, 7]
     },
     { 
       "id": 4,
       "firstName": "Kanye",
       "lastName": "Arnold",
-      "birthdate": "09/28/1948",
-      "enrolledPrograms": [3, 4]
+      "birthdate": "09/28/1938",
+      "enrolledPrograms": [3, 4, 7]
     },
     { 
       "id": 5,
@@ -46,9 +46,16 @@
       "id": 7,
       "firstName": "Leon",
       "lastName": "Carty",
-      "birthdate": "7/08/1964",
+      "birthdate": "7/08/1934",
       "enrolledPrograms": []
-    }
+    },
+    { 
+      "id": 8,
+      "firstName": "Pheobe",
+      "lastName": "Dryer",
+      "birthdate": "01/30/1933",
+      "enrolledPrograms": [1, 5, 7]
+    },
   ],
   "programs": [
     {
